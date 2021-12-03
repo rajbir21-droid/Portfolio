@@ -3,6 +3,7 @@
   <a href="https://rajbirbanerjee.herokuapp.com/" target="_blank">rajbirbanerjee.com</a>
 </h2>
 <div align="center">
+  
   ![portfolio](https://user-images.githubusercontent.com/64858573/144641307-9d66b90e-a0ab-4a18-9dca-a3e43a5a1078.gif)
 </div>
 
