@@ -77,6 +77,7 @@ function Projects() {
               title="basic-banking-system"
               description="An online banking website made using MERN stack where the registered user can make transaction to a selected user."
               link="https://github.com/rajbir21-droid/basic-banking-system"
+              proj="https://rajbirbank.herokuapp.com/"
             />
           </Col>
 
