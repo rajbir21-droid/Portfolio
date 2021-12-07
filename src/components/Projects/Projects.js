@@ -46,12 +46,12 @@ function Projects() {
               imgPath={blogScope}
               isBlog={false}
               title="BlogScope"
-              description='Blog website to write blog about different things build with 
-                       react.js,Bootstrap,nodejs,express js and MongoDB. Have features 
-                      which allows user for writing Blogs and also publishing it ,and
-                      also sending feedback, 
-                      user can also upload picture with the blog , it is deployed using Heroku.'
+              description='Blog website a MERN stack application ,to 
+                    write blog about different things, 
+                      user can also upload picture with the blog , 
+                       it is deployed using Heroku.'
               link="https://github.com/rajbir21-droid/blogwebsite"
+              proj="https://blogscope.herokuapp.com/"
             />
           </Col>
 
@@ -60,14 +60,13 @@ function Projects() {
               imgPath={FaceApi}
               isBlog={false}
               title="FaceRecognition"
-              description="Face recognition web app made using React js 
-              as the front end and Express js the framework of the backend and 
-              PostgresSQL as the database . 
-              You need to register as a user when you open the website.
-              The website is deployed in Heroku online cloud platform . 
-              This is a simple web app which detect the face of a 
-              picture when you submit the link of the picture using CLARIFAI API"
-              link="https://github.com/rajbir21-droid/FaceRecognitionAPI"
+              description="Face recognition is a MERN stack application 
+              in which CLARIFAI API is used. You need to register as a user 
+              when you open the website. The website is deployed in Heroku's online 
+              cloud platform. This is a simple web app that detects the face of 
+              a picture through an API call after you submit the link of that picture."
+              link="https://github.com/rajbir21-droid/Face-Recognition"
+              proj="https://facerecoz.herokuapp.com/"
             />
           </Col>
 
@@ -89,6 +88,7 @@ function Projects() {
               description="A weather web app made using Html,Css and js which shows the weather of any state like 
               'Kolkata','Delhi' etc, It shows weather through an api call from 'https://openweathermap.org/api'"
               link="https://github.com/rajbir21-droid/Paraweather"
+              proj="https://rajbir21-droid.github.io/Paraweather/"
             />
           </Col>
 
@@ -99,6 +99,7 @@ function Projects() {
               title="Paradiseao"
               description="A simple chat web app made using react js and Firebase with 25 message limit"
               link="https://github.com/rajbir21-droid/paradisao"
+             
             />
           </Col>
 
@@ -110,6 +111,7 @@ function Projects() {
               description="A Full responsive simple shopping website made using Html,Css and Js
                   with multiple pages."
               link="https://github.com/rajbir21-droid/Paradise69"
+              proj="https://rajbir21-droid.github.io/Paradise69/"
             />
           </Col>
         </Row>

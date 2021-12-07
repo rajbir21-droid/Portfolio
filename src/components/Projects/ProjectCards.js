@@ -12,10 +12,17 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.link} target="_blank">
+        <Button variant="primary" style={{margin:"10px"}}href={props.link} target="_blank">
           <BiLinkExternal /> &nbsp;
-          {props.isBlog ? "View Blog" : "View Project"}
+          { "View Github"
+          }
         </Button>
+        {props.proj?
+        (<Button variant="primary" href={props.proj} target="_blank">
+          <BiLinkExternal /> &nbsp;
+          {"View Project"}
+        </Button>):null
+        }
       </Card.Body>
     </Card>
   );
