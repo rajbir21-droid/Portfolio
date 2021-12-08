@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://rajbirbanerjee.herokuapp.com/" target="_blank">rajbirbanerjee.com</a>
+  <a href="https://rajbirbanerjee.netlify.app/" target="_blank">rajbirbanerjee.com</a>
 </h2>
 <div align="center">
   
@@ -17,7 +17,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://rajbirbanerjee.herokuapp.com/" target="_blank">Rajbir</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://rajbirbanerjee.netlify.app/" target="_blank">Rajbir</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
