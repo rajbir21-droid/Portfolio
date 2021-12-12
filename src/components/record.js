@@ -146,7 +146,7 @@
     subTitle:
       "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
     resumeLink:
-      "https://drive.google.com/file/d/1i1WQsEt-b0gowafcmG5sXtWZh1-DOl4k/view?usp=sharing",
+      "https://drive.google.com/file/d/1GbqBHw5-1230UYLOQgdL83Uu4SfzFUdV/view?usp=sharing",
     portfolio_repository: "",
   };
   
